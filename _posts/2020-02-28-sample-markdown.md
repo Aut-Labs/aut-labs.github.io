@@ -9,15 +9,6 @@ comments: true
 author: Bill Smith
 ---
 
-{% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
-  \[ \frac{1}{n^{2}} \]
- {% endraw %}
-
- $$\LaTeX code$$   (for display)
-\[\LaTeX code\] (also for display)
-\(\LaTeX code\) (for inline)
-
 
 $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; 
  
