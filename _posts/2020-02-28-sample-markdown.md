@@ -11,12 +11,12 @@ author: Bill Smith
 
 {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
-  \\[ \frac{1}{n^{2}} \\]
+  \[ \frac{1}{n^{2}} \]
  {% endraw %}
 
  $$\LaTeX code$$   (for display)
-\\[\LaTeX code\\] (also for display)
-\\(\LaTeX code\\) (for inline)
+\[\LaTeX code\] (also for display)
+\(\LaTeX code\) (for inline)
 
  
 
